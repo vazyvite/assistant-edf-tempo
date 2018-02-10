@@ -9,7 +9,9 @@ Il faut donc suivre la procédure d'installation de assistant-plugins [disponibl
 
 
 Cette solution est basée sur IFTTT et Pushbullet, il faudra créer un compte sur ces services et configurer assistant-plugins pour pouvoir utiliser assistant-edf-tempo.
-assistant-edf-tempo se base sur assistant-plugins et appelle l'API Tempo EDF de l'[API Domogeek] (http://domogeek.entropialux.com/static/doc/index.html#api-Domogeek-GetTempo)
+assistant-edf-tempo se base sur assistant-plugins et appelle l'API Tempo EDF de l'[API Domogeek] (http://domogeek.entropialux.com/static/doc/index.html#api-Domogeek-GetTempo).
+
+Les sources sont disponibles sur [Github](https://github.com/vazyvite/assistant-edf-tempo)
 
 ## Install
 
