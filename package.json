@@ -1,8 +1,11 @@
 {
   "name": "assistant-edf-tempo",
+  "version": "1.0.15",
   "description": "",
   "main": "edfTempo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "author": "Jonathan JACQUES",
+  "license": "MIT"
 }
