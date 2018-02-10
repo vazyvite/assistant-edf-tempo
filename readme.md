@@ -14,7 +14,7 @@ assistant-edf-tempo se base sur assistant-plugins et appelle l'API Tempo EDF de 
 ## Install
 
 ```bash
-npm i assistant-edf-tempo
+npm i assistant-edf-tempo@latest --save --loglevel error && npm run-script postinstall
 ```
 
 ## Changelog
