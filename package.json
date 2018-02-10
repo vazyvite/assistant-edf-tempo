@@ -1,11 +1,15 @@
 {
   "name": "assistant-edf-tempo",
   "version": "1.0.15",
+  "homepage": "https://github.com/vazyvite/assistant-edf-tempo",
   "description": "",
   "main": "edfTempo.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Jonathan JACQUES",
+  "bugs": {
+    "url": "https://github.com/vazyvite/assistant-edf-tempo/issues"
+  },
+  "author": "Jonathan JACQUES (https://github.com/vazyvite)",
   "license": "MIT"
 }
